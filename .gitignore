@@ -1,0 +1,5 @@
+.venv
+bttai-ajl-2025
+save_at_*.keras
+submission.csv
+prelim_model.keras
